@@ -163,11 +163,11 @@ devpratik@devpratik-Aspire-A324-53:~/workspace/projects/black-parrot-sim/bp_uvm_
 ## ALU Operations Tested
 | Opcode | Operation | Status |
 |--------|-----------|--------|
-| 4'h0   | ADD       | ✅ |
-| 4'h1   | SUB       | ✅ |
-| 4'h2   | AND       | ✅ |
-| 4'h3   | OR        | ✅ |
-| 4'h4   | XOR       | ✅ |
-| 4'h5   | SLL       | ✅ |
-| 4'h6   | SRL       | ✅ |
-| 4'h7   | SRA       | ✅ |
+| 4'h0   | ADD       | yes |
+| 4'h1   | SUB       | yes |
+| 4'h2   | AND       | yes |
+| 4'h3   | OR        | yes |
+| 4'h4   | XOR       | yes |
+| 4'h5   | SLL       | yes |
+| 4'h6   | SRL       | yes |
+| 4'h7   | SRA       | yes |
